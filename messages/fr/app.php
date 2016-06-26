@@ -61,6 +61,7 @@ return [
     'Ram' => '',
     'Registre' => '',
     'Reset' => '',
+    'Save to PDF' => '',
     'S N' => '',
     'Search' => '',
     'Text' => '',
