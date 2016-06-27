@@ -15,9 +15,10 @@
  * of the guide for details.
  *
  * NOTE: this file must be saved in UTF-8 encoding.
+hado ghadi diri lihom tarjama bach ibano b francais 
  */
 return [
-    'Adr Ip' => '',
+    'Adr Ip' => 'Adresse IP',
     'Adr Mac Lan' => '',
     'Advanced search' => '',
     'Alimentation' => '',
@@ -55,7 +56,7 @@ return [
     'Lieus' => '',
     'Machine ID' => 'Machine',
     'Machines' => '',
-    'Name' => '',
+    'Name' => 'Nom',
     'Os' => '',
     'Parametres' => '',
     'Ram' => '',
